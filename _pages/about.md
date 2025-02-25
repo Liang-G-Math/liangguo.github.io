@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**
 
 # **Liang Guo (郭亮)**
 

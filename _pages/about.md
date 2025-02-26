@@ -18,6 +18,10 @@ Position: [Postdoc](https://www.simis.cn/liang-guo/)
 
 
 
+------
+
+
+
 Education
 ======
 
@@ -28,10 +32,18 @@ Education
 
 
 
+------
+
+
+
 Work experience
 ======
 
 * 2024-now: Shanghai Institute for Mathematics and Interdisciplinary Sciences. (SIMIS), Postdoc
+
+
+
+------
 
 
 
@@ -42,9 +54,13 @@ Work experience
 
 
 
+------
+
+
+
 # Publications
 
-1. J. Deng, **L. Guo**, Q. Wang, and G. Yu, Higher index theory for spaces with an *FCE-by-FCE* structure. *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025. 
+1. J. Deng, **L. Guo**, Q. Wang, and G. Yu, Higher index theory for spaces with an *FCE-by-FCE* structure. *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025.
 
    [Higher index theory for spaces with an FCE-by-FCE structure]: https://www.sciencedirect.com/science/article/pii/S0022123624003677
 
@@ -66,6 +82,10 @@ Work experience
 
 
 
+------
+
+
+
 Preprint
 ======
 
@@ -74,6 +94,10 @@ Preprint
 
 3. J. Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv:2409.16556.[[2409.16556\] Twisted Roe algebras and $K$-theory](https://arxiv.org/abs/2409.16556)
 4. **L. Guo**, Q. Wang, and C. Zhang, The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure. arXiv:2408.06660.[[2408.06660\] The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure](https://arxiv.org/abs/2408.06660)
+
+
+
+------
 
 
 
@@ -92,6 +116,10 @@ Conference and Seminar Talks
   - Title: Twisted Roe algebras and their K-theory.
 - Analysis Seminar, Fudan University, Shanghai, China, 2024 10.31 
   - Title: A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity.
+
+
+
+------
 
 
 

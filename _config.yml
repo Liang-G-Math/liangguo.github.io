@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liang Guo"
+title                    : "Liang Guo (郭亮)"
 title_separator          : "-"
 name                     : &name "Liang Guo"
 description              : &description ""

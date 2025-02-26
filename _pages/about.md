@@ -36,11 +36,25 @@ Work experience
 
 # Publications
 
-1. J. Deng, **L. Guo**, Q. Wang, and G. Yu, Higher index theory for spaces with an *FCE-by-FCE* structure. *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025. [Higher index theory for spaces with an FCE-by-FCE structure - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0022123624003677)
-2. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity. *J. Funct. Anal.*, 286(2): Paper No. 110215, 2024. [A Bott periodicity theorem for ℓp-spaces and the coarse Novikov conjecture at infinity - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0022123623003725)
-3. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, $K$-theory of the maximal and reduced roe algebras of metric spaces with A-by-CE coarse fibrations. *J. Topol. Anal.*, 16(6):989–1016, 2024. [K-Theory of the maximal and reduced Roe algebras of metric spaces with A-by-CE coarse fibrations | Journal of Topology and Analysis](https://worldscientific.com/doi/10.1142/S1793525323500073)
-4. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, The twisted coarse Baum-Connes conjecture with coefficients in coarsely proper algebras. *J. Funct. Anal.*, 285(8): Paper No. 110067, 41, 2023. https://www.sciencedirect.com/science/article/pii/S0022123623002240
-5. **L. Guo**, H. Wang, and Q. Wang, On the quotients of coarse structures and Roe algebras. *Topology Appl.*, 319: Paper No. 108227, 18, 2022 [On the quotients of coarse structures and Roe algebras - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166864122002292)
+1. J. Deng, **L. Guo**, Q. Wang, and G. Yu, Higher index theory for spaces with an *FCE-by-FCE* structure. *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025. 
+
+   [Higher index theory for spaces with an FCE-by-FCE structure]: https://www.sciencedirect.com/science/article/pii/S0022123624003677
+
+2. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity. *J. Funct. Anal.*, 286(2): Paper No. 110215, 2024. 
+
+   [A Bott periodicity theorem for ℓp-spaces and the coarse Novikov conjecture at infinity]: https://www.sciencedirect.com/science/article/pii/S0022123623003725
+
+3. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, $K$-theory of the maximal and reduced roe algebras of metric spaces with A-by-CE coarse fibrations. *J. Topol. Anal.*, 16(6):989–1016, 2024.
+
+   [$K$-theory of the maximal and reduced roe algebras of metric spaces with A-by-CE coarse fibrations]: https://worldscientific.com/doi/10.1142/S1793525323500073
+
+4. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, The twisted coarse Baum-Connes conjecture with coefficients in coarsely proper algebras. *J. Funct. Anal.*, 285(8): Paper No. 110067, 41, 2023. 
+
+   [The twisted coarse Baum-Connes conjecture with coefficients in coarsely proper algebras]: https://www.sciencedirect.com/science/article/pii/S0022123623002240
+
+5. **L. Guo**, H. Wang, and Q. Wang, On the quotients of coarse structures and Roe algebras. *Topology Appl.*, 319: Paper No. 108227, 18, 2022 
+
+   [On the quotients of coarse structures and Roe algebras]: https://www.sciencedirect.com/science/article/pii/S0166864122002292
 
 
 Preprint

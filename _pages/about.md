@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-# **Liang Guo (郭亮)**
-
 Welcome to my homepage!
 
 Address: Shanghai Institute for Mathematics and Interdisciplinary Science (SIMIS), Shanghai, 200433, China

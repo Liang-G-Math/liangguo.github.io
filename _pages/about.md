@@ -26,7 +26,7 @@ Higher index theory and Noncommutative geometry with the following topics:
  2. (Geometric) property (T) and applications;
  3. Ideal structure of Roe algebras;
  4. Nonstandard analysis and limit space theory;
- 5. Coarse geometry of subspaces of -spaces.
+ 5. Coarse geometry of subspaces of $\ell^p$-spaces.
 
 ------
 

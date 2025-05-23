@@ -18,13 +18,15 @@ Position: [Postdoc](https://www.simis.cn/liang-guo/)
 
 ------
 
-My main research area is Higher index theory and Noncommutative geometry with the following topics:
+Research area
+======
+Higher index theory and Noncommutative geometry with the following topics:
 
-1. The equivariant coarse Baum-Connes conjecture for group actions;
-2. (Geometric) property (T) and applications;
-3. Ideal structure of Roe algebras;
-4. Nonstandard analysis and limit space theory;
-5. Coarse geometry of subspaces of $\ell^p$-spaces.
+ 1. The equivariant coarse Baum-Connes conjecture for group actions;
+ 2. (Geometric) property (T) and applications;
+ 3. Ideal structure of Roe algebras;
+ 4. Nonstandard analysis and limit space theory;
+ 5. Coarse geometry of subspaces of -spaces.
 
 ------
 
@@ -58,7 +60,8 @@ Education and Work experience
 
 # Publications
 
-1. J. Deng, **L. Guo**, Q. Wang, and G. Yu, Higher index theory for spaces with an *FCE-by-FCE* structure. *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025. https://doi.org/10.1016/j.jfa.2024.110679
+1. **L. Guo**, Q. Wang, and C. Zhang, The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure, to appear in *J. Noncommut. Geom.*. [[2408.06660\] The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure](https://arxiv.org/abs/2408.06660)
+2. J. Deng, **L. Guo**, Q. Wang, and G. Yu, Higher index theory for spaces with an *FCE-by-FCE* structure. *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025. https://doi.org/10.1016/j.jfa.2024.110679
 2. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity. *J. Funct. Anal.*, 286(2): Paper No. 110215, 2024. https://doi.org/10.1016/j.jfa.2023.110215
 3. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, $K$-theory of the maximal and reduced roe algebras of metric spaces with A-by-CE coarse fibrations. *J. Topol. Anal.*, 16(6):989–1016, 2024. https://doi.org/10.1142/S1793525323500073
 4. **L. Guo**, Z. Luo, Q. Wang, and Y. Zhang, The twisted coarse Baum-Connes conjecture with coefficients in coarsely proper algebras. *J. Funct. Anal.*, 285(8): Paper No. 110067, 41, 2023. https://doi.org/10.1016/j.jfa.2023.110067
@@ -73,11 +76,10 @@ Education and Work experience
 Preprint
 ======
 
-1. **L. Guo**, J. Qian, Q. Wang, An ultraproduct approach to limit space theory, arXiv:2412.08130.[[2412.08130\] An ultraproduct approach to limit space theory](https://arxiv.org/abs/2412.08130)
-2. **L. Guo**, Q. Wang, J. Wu and G. Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv:2411.18538.[[2411.18538\] Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture](https://arxiv.org/abs/2411.18538)
-
-3. J. Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv:2409.16556.[[2409.16556\] Twisted Roe algebras and $K$-theory](https://arxiv.org/abs/2409.16556)
-4. **L. Guo**, Q. Wang, and C. Zhang, The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure. arXiv:2408.06660.[[2408.06660\] The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure](https://arxiv.org/abs/2408.06660)
+1. **L. Guo**, Q. Wang. Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras, arxiv: 2505.02338 [[2505.02338\] Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras](https://arxiv.org/abs/2505.02338)
+2. **L. Guo**, J. Qian, Q. Wang, An ultraproduct approach to limit space theory, arXiv:2412.08130.[[2412.08130\] An ultraproduct approach to limit space theory](https://arxiv.org/abs/2412.08130)
+3. **L. Guo**, Q. Wang, J. Wu and G. Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv:2411.18538.[[2411.18538\] Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture](https://arxiv.org/abs/2411.18538)
+4. J. Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv:2409.16556.[[2409.16556\] Twisted Roe algebras and $K$-theory](https://arxiv.org/abs/2409.16556)
 
 
 
@@ -87,6 +89,8 @@ Preprint
 
 Conference and Seminar Talks
 ======
+
+**2024.**
 
 - Noncommutative Geometry Seminar, Texas A&M University, TX, USA, 2024 03.28 
   - Title: Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture.
@@ -101,6 +105,12 @@ Conference and Seminar Talks
 - Analysis Seminar, Fudan University, Shanghai, China, 2024 10.31 
   - Title: A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity.
 
+**2025.**
+
+ - Workshop on Noncommutative Geometry and Operator Theory, Chengdu, China, 2025. 5.10
+  - Title: Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras
+
+  
 
 
 ------

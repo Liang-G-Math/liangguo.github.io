@@ -20,7 +20,7 @@ Position: [Postdoc](https://www.simis.cn/liang-guo/)
 
 My main research area is Higher index theory and Noncommutative geometry with the following topics:
 
-1. The equivariant coarse Baum-Connes conjecture for a dynamic system;
+1. The equivariant coarse Baum-Connes conjecture for group actions;
 2. (Geometric) property (T) and applications;
 3. Ideal structure of Roe algebras;
 4. Nonstandard analysis and limit space theory;

@@ -107,10 +107,16 @@ Conference and Seminar Talks
 
 **2025.**
 
- - Workshop on Noncommutative Geometry and Operator Theory, Chengdu, China, 2025. 5.10
-  - Title: Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras
-
-  
+- Analysis Seminar, Fudan University, Shanghai, 2025. 4.17
+  - Title: Banach property (T) for metric spaces via Banach representations of Roe algebras.
+- Higher index theory Seminar, East China Normal University, Shanghai, 2025 04.22
+  - Title: Banach property (T) for metric spaces via Banach representations of Roe algebras.
+- Workshop on Noncommutative Geometry and Operator Theory, Chengdu, 2025. 5.10-5.11
+  - Title: Banach property (T) for metric spaces via Banach representations of Roe algebras.
+- The 2nd China-Japan-Korea Conference on Functional Analysis, Seoul National University, Seoul, 2025 7.07-7.11 
+  - Title: Geometric Banach Property (T) for Cayley graphs and Limit Space Theory.
+- Mini-workshop on Operator Algebras and Applications, FAU Erlangen-Nürnberg, Erlangen-Nürnberg, 2025 7.28-7.30 
+  - Title: Geometric Banach Property (T) for Cayley graphs and Limit Space Theory.
 
 
 ------

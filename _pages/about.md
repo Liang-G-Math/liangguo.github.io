@@ -76,10 +76,11 @@ Education and Work experience
 Preprint
 ======
 
-1. **L. Guo**, Q. Wang. Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras, arxiv: 2505.02338 [[2505.02338\] Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras](https://arxiv.org/abs/2505.02338)
-2. **L. Guo**, J. Qian, Q. Wang, An ultraproduct approach to limit space theory, arXiv:2412.08130.[[2412.08130\] An ultraproduct approach to limit space theory](https://arxiv.org/abs/2412.08130)
-3. **L. Guo**, Q. Wang, J. Wu and G. Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv:2411.18538.[[2411.18538\] Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture](https://arxiv.org/abs/2411.18538)
-4. J. Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv:2409.16556.[[2409.16556\] Twisted Roe algebras and $K$-theory](https://arxiv.org/abs/2409.16556)
+1. **L. Guo**, Q. Wang, and C. Zhang, Relative higher index theory on quotients of Roe algebras and positive scalar curvature at infinity, arxiv: [2509.23380](https://arxiv.org/abs/2509.23380).
+2. **L. Guo**, Q. Wang. Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras, arxiv: [2505.02338](https://arxiv.org/abs/2505.02338).
+3. **L. Guo**, J. Qian, Q. Wang, An ultraproduct approach to limit space theory, arXiv: [2412.08130](https://arxiv.org/abs/2412.08130).
+4. **L. Guo**, Q. Wang, J. Wu and G. Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv: [2411.18538](https://arxiv.org/abs/2411.18538).
+5. J. Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv: [2409.16556](https://arxiv.org/abs/2409.16556).
 
 
 
@@ -127,3 +128,4 @@ Teaching
 ======
 
 Spring Semester 2025, **Large Scale Geometry**, *SIMIS Room 1710*, Every Monday 13:30-15:00
+Fall Semester 2025, **Index theory**, *SIMIS Room 1310*, Every Tuesday 9:00-12:00

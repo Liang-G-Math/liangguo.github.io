@@ -47,6 +47,6 @@ body {
  * 明确告诉所有标题标签使用和正文一样的字体
 */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* 替换成您选择的字体名称 */
-    font-weight: 600; /* 或者 600, 视您的喜好而定 */
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important; /* 替换成您选择的字体名称 */
+    font-weight: 600 !important; /* 或者 600, 视您的喜好而定 */
 }

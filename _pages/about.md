@@ -118,7 +118,8 @@ Conference and Seminar Talks
   - Title: Geometric Banach Property (T) for Cayley graphs and Limit Space Theory.
 - Mini-workshop on Operator Algebras and Applications, FAU Erlangen-Nürnberg, Erlangen-Nürnberg, 2025 7.28-7.30 
   - Title: Geometric Banach Property (T) for Cayley graphs and Limit Space Theory.
-
+- Operator algebras Seminar, Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), Shanghai, China, 2025 10.24
+  - Title: Relative higher index theory and positive scalar curvature at infinity.
 
 ------
 
@@ -127,5 +128,5 @@ Conference and Seminar Talks
 Teaching
 ======
 
-Spring Semester 2025, **Large Scale Geometry**, *SIMIS Room 1710*, Every Monday 13:30-15:00
-Fall Semester 2025, **Index theory**, *SIMIS Room 1310*, Every Tuesday 9:00-12:00
+- Spring Semester 2025, **Large Scale Geometry**, *SIMIS Room 1710*, Every Monday 13:30-15:00
+- Fall Semester 2025, **Index theory**, *SIMIS Room 1310*, Every Tuesday 9:00-12:00

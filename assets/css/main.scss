@@ -47,3 +47,12 @@ body {
 pre, code {
     font-family: 'Menlo', 'Consolas', 'Monaco', monospace;
 }
+
+/*
+ * --- 修复标题字体 ---
+ * 明确告诉所有标题标签使用和正文一样的字体
+*/
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; /* 替换成您选择的字体名称 */
+    font-weight: 700; /* 或者 600, 视您的喜好而定 */
+}

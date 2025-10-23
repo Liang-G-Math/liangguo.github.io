@@ -7,6 +7,8 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
+/* 1. 从 Google Fonts 导入字体 */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700&display=swap');
 
 @import 
     "vendor/breakpoint/breakpoint",
@@ -40,3 +42,12 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* 2. 将网站的全局字体设置为新导入的字体 */
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+/* （可选）如果你想让代码块使用不同的字体，可以单独设置 */
+pre, code {
+    font-family: 'Menlo', 'Consolas', 'Monaco', monospace;
+}

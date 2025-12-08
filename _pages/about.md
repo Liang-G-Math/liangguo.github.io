@@ -121,6 +121,8 @@ Conference and Seminar Talks
   - Title: Geometric Banach Property (T) for Cayley graphs and Limit Space Theory.
 - Operator algebras Seminar, Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), Shanghai, China, 2025 10.24
   - Title: Relative higher index theory and positive scalar curvature at infinity.
+- Analysis Seminar, Fudan University, Shanghai, 2025. 11.6
+  - Title: Relative higher index theory and positive scalar curvature at infinity.
 - Kleines Seminar, East China Normal University, Shanghai, 2025. 12.04
   - Title: Geometric Banach Property (T) for Cayley graphs and Limit Space Theory.
 

@@ -35,10 +35,10 @@ Higher index theory and Noncommutative geometry with the following topics:
 Education and Work experience
 ======
 
+- B.S. in Mathematics, Jilin University, 2014-2018
+
 - Ph.D in Mathematics, East China Normal University, 2018-2024
   -  Advisor: Professor Qin Wang
-
-- B.S. in Mathematics, Jilin University, 2014-2018
 
 * 2024-now: Shanghai Institute for Mathematics and Interdisciplinary Sciences. (SIMIS), Postdoc
 

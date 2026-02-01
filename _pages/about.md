@@ -76,12 +76,13 @@ Education and Work experience
 Preprint
 ======
 
-1. **L. Guo**, Kang Li, Qin Wang, $K$-theory of ghostly ideals for $\ell^p$-coarsely embeddable spaces, arxiv: [2511.22438](https://arxiv.org/abs/2511.22438).
-2. **L. Guo**, Qin Wang, and Chen Zhang, Relative higher index theory on quotients of Roe algebras and positive scalar curvature at infinity, arxiv: [2509.23380](https://arxiv.org/abs/2509.23380).
-3. **L. Guo**, Qin Wang. Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras, arxiv: [2505.02338](https://arxiv.org/abs/2505.02338).
-4. **L. Guo**, Jin Qian, Qin Wang, An ultraproduct approach to limit space theory, arXiv: [2412.08130](https://arxiv.org/abs/2412.08130).
-5. **L. Guo**, Qin Wang, Jianchao Wu and Guoliang Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv: [2411.18538](https://arxiv.org/abs/2411.18538).
-6. Jintao Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv: [2409.16556](https://arxiv.org/abs/2409.16556).
+1. **L.Guo**, Hang Wang, Xiufeng Yao, The $K$-theory of maximal and reduced Roe algebras for Hecke pairs with equivariant coarse embeddings, arxiv: [2601.14682](https://arxiv.org/abs/2601.14682).
+2. **L. Guo**, Kang Li, Qin Wang, $K$-theory of ghostly ideals for $\ell^p$-coarsely embeddable spaces, arxiv: [2511.22438](https://arxiv.org/abs/2511.22438).
+3. **L. Guo**, Qin Wang, and Chen Zhang, Relative higher index theory on quotients of Roe algebras and positive scalar curvature at infinity, arxiv: [2509.23380](https://arxiv.org/abs/2509.23380).
+4. **L. Guo**, Qin Wang. Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras, arxiv: [2505.02338](https://arxiv.org/abs/2505.02338).
+5. **L. Guo**, Jin Qian, Qin Wang, An ultraproduct approach to limit space theory, arXiv: [2412.08130](https://arxiv.org/abs/2412.08130).
+6. **L. Guo**, Qin Wang, Jianchao Wu and Guoliang Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv: [2411.18538](https://arxiv.org/abs/2411.18538).
+7. Jintao Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv: [2409.16556](https://arxiv.org/abs/2409.16556).
 
 
 

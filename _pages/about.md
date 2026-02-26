@@ -16,8 +16,6 @@ E-mail: liangguo@simis.cn
 
 Position: [Postdoc](https://www.simis.cn/liang-guo/)
 
-<img src="picture.jpg" width="200">
-
 ------
 
 Research area
@@ -128,6 +126,10 @@ Conference and Seminar Talks
   - Title: Relative higher index theory and positive scalar curvature at infinity.
 - Kleines Seminar, East China Normal University, Shanghai, 2025. 12.04
   - Title: Geometric Banach Property (T) for Cayley graphs and Limit Space Theory.
+ 
+**2026.**
+- Lie Seminar, FAU Erlangen-Nürnberg, Erlangen, 2026 2.2
+  - Title: $K$-theory of Ghostly Ideals for $\ell^p$-Coarsely Embeddable Spaces.
 
 ------
 
@@ -138,3 +140,4 @@ Teaching
 
 - Spring Semester 2025, **Large Scale Geometry**, *SIMIS Room 1710*, Every Monday 13:30-15:00
 - Fall Semester 2025, **Index theory**, *SIMIS Room 1310*, Every Tuesday 9:00-12:00
+- Spring Semester 2026, **Higher index theory**, *SIMIS Room 131o*, Every Wednesday 9:30-11:30

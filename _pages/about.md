@@ -16,7 +16,7 @@ E-mail: liangguo@simis.cn
 
 Position: [Postdoc](https://www.simis.cn/liang-guo/)
 
-img src="picture.jpg" width="200"
+<img src="picture.jpg" width="200">
 
 ------
 

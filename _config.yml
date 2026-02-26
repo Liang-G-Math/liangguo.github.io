@@ -23,7 +23,6 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   # avatar           : "picture.jpg"
-  <img src="picture.jpg" width="200">
   name             : "Liang Guo"
   # pronouns         : # example: "she/her"  
   # bio              : ""

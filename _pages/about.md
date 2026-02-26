@@ -140,4 +140,4 @@ Teaching
 
 - Spring Semester 2025, **Large Scale Geometry**, *SIMIS Room 1710*, Every Monday 13:30-15:00
 - Fall Semester 2025, **Index theory**, *SIMIS Room 1310*, Every Tuesday 9:00-12:00
-- Spring Semester 2026, **Higher index theory**, *SIMIS Room 131o*, Every Wednesday 9:30-11:30
+- Spring Semester 2026, **Higher index theory**, *SIMIS Room 1310*, Every Wednesday 9:30-11:30

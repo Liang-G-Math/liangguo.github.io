@@ -61,7 +61,7 @@ Education and Work experience
 # Publications
 
 
-1.**L.Guo**, Hang Wang, Xiufeng Yao, The $K$-theory of maximal and reduced Roe algebras for Hecke pairs with equivariant coarse embeddings, To appear in *J. Topol. Anal.* (2025), arxiv: [2601.14682](https://arxiv.org/abs/2601.14682).
+1. **L.Guo**, Hang Wang, Xiufeng Yao, The $K$-theory of maximal and reduced Roe algebras for Hecke pairs with equivariant coarse embeddings, To appear in *J. Topol. Anal.* (2025), arxiv: [2601.14682](https://arxiv.org/abs/2601.14682).
 2. **L. Guo**, Qin Wang, and Chen Zhang, The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure, *J. Noncommut. Geom.* (2025), published online first. [Link](https://ems.press/journals/jncg/articles/14299369)
 3. Jintao Deng, **L. Guo**, Qin Wang, and Guoliang Yu, Higher index theory for spaces with an *FCE-by-FCE* structure. *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025. [Link](https://doi.org/10.1016/j.jfa.2024.110679)
 4. **L. Guo**, Zheng Luo, Qin Wang, and Yazhou Zhang, A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity. *J. Funct. Anal.*, 286(2): Paper No. 110215, 2024. [Link](https://doi.org/10.1016/j.jfa.2023.110215)

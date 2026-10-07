@@ -10,11 +10,9 @@ redirect_from:
 
 Welcome to my homepage!
 
-Address: Shanghai Institute for Mathematics and Interdisciplinary Science (SIMIS), Shanghai, 200433, China
+Address: Centre for Mathematical Sciences, Lund University, Box 118, Lund, 22100, Sweden
 
-E-mail: liangguo@simis.cn 
-
-Position: [Postdoc](https://www.simis.cn/liang-guo/)
+E-mail: liang.guo@math.lth.se 
 
 ------
 
@@ -40,7 +38,9 @@ Education and Work experience
 - Ph.D in Mathematics, East China Normal University, 2018-2024
   -  Advisor: Professor Qin Wang
 
-* 2024-now: Shanghai Institute for Mathematics and Interdisciplinary Sciences. (SIMIS), Postdoc
+- 2024-2026: Shanghai Institute for Mathematics and Interdisciplinary Sciences. (SIMIS), Postdoc
+
+- 2026-now：Centre for Mathematical Sciences, Lund University, Postdoc
 
 
 
@@ -61,14 +61,15 @@ Education and Work experience
 # Publications
 
 
-1. **L. Guo**, Kang Li, Qin Wang, [$K$-theory of ghostly ideals for $\ell^p$-coarsely embeddable spaces](https://link.springer.com/article/10.1007/s00209-026-04079-4), *Math. Z.*，(2026), published online first.
-2. **L.Guo**, Hang Wang, Xiufeng Yao, [The $K$-theory of maximal and reduced Roe algebras for Hecke pairs with equivariant coarse embeddings](https://www.worldscientific.com/doi/10.1142/S1793525326500317), *J. Topol. Anal.* (2026), published online first.
-3. **L. Guo**, Qin Wang, and Chen Zhang, [The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure](https://ems.press/journals/jncg/articles/14299369), *J. Noncommut. Geom.* (2025), published online first.
-4. Jintao Deng, **L. Guo**, Qin Wang, and Guoliang Yu, [Higher index theory for spaces with an *FCE-by-FCE* structure](https://doi.org/10.1016/j.jfa.2024.110679). *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025.
-5. **L. Guo**, Zheng Luo, Qin Wang, and Yazhou Zhang, [A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity](https://doi.org/10.1016/j.jfa.2023.110215). *J. Funct. Anal.*, 286(2): Paper No. 110215, 2024.
-6. **L. Guo**, Zheng Luo, Qin Wang, and Yazhou Zhang, [$K$-theory of the maximal and reduced roe algebras of metric spaces with A-by-CE coarse fibrations](https://doi.org/10.1142/S1793525323500073). *J. Topol. Anal.*, 16(6):989–1016, 2024.
-7. **L. Guo**, Zheng Luo, Qin Wang, and Yazhou Zhang, [The twisted coarse Baum-Connes conjecture with coefficients in coarsely proper algebras](https://doi.org/10.1016/j.jfa.2023.110067). *J. Funct. Anal.*, 285(8): Paper No. 110067, 41, 2023.
-8. **L. Guo**, Huan Wang, and Qin Wang, [On the quotients of coarse structures and Roe algebras](https://doi.org/10.1016/j.topol.2022.108227). *Topology Appl.*, 319: Paper No. 108227, 18, 2022
+1. **L. Guo**, Jin Qian, Qin Wang, An ultraproduct approach to limit space theory, To appear in *Bulletin of the London Mathematical Society*, (2026) arXiv: [2412.08130](https://arxiv.org/abs/2412.08130).
+2. **L. Guo**, Kang Li, Qin Wang, [$K$-theory of ghostly ideals for $\ell^p$-coarsely embeddable spaces](https://link.springer.com/article/10.1007/s00209-026-04079-4), *Math. Z.*，(2026), published online first.
+3. **L.Guo**, Hang Wang, Xiufeng Yao, [The $K$-theory of maximal and reduced Roe algebras for Hecke pairs with equivariant coarse embeddings](https://www.worldscientific.com/doi/10.1142/S1793525326500317), *J. Topol. Anal.* (2026), published online first.
+4. **L. Guo**, Qin Wang, and Chen Zhang, [The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure](https://ems.press/journals/jncg/articles/14299369), *J. Noncommut. Geom.* (2025), published online first.
+5. Jintao Deng, **L. Guo**, Qin Wang, and Guoliang Yu, [Higher index theory for spaces with an *FCE-by-FCE* structure](https://doi.org/10.1016/j.jfa.2024.110679). *J. Funct. Anal.*, 288(1): Paper No. 110679, 2025.
+6. **L. Guo**, Zheng Luo, Qin Wang, and Yazhou Zhang, [A Bott periodicity theorem for $\ell^p$-spaces and the coarse Novikov conjecture at infinity](https://doi.org/10.1016/j.jfa.2023.110215). *J. Funct. Anal.*, 286(2): Paper No. 110215, 2024.
+7. **L. Guo**, Zheng Luo, Qin Wang, and Yazhou Zhang, [$K$-theory of the maximal and reduced roe algebras of metric spaces with A-by-CE coarse fibrations](https://doi.org/10.1142/S1793525323500073). *J. Topol. Anal.*, 16(6):989–1016, 2024.
+8. **L. Guo**, Zheng Luo, Qin Wang, and Yazhou Zhang, [The twisted coarse Baum-Connes conjecture with coefficients in coarsely proper algebras](https://doi.org/10.1016/j.jfa.2023.110067). *J. Funct. Anal.*, 285(8): Paper No. 110067, 41, 2023.
+9. **L. Guo**, Huan Wang, and Qin Wang, [On the quotients of coarse structures and Roe algebras](https://doi.org/10.1016/j.topol.2022.108227). *Topology Appl.*, 319: Paper No. 108227, 18, 2022
 
 
 
@@ -82,9 +83,8 @@ Preprint
 1. **L. Guo**, A groupoid approach to the equivariant coarse Baum--Connes conjecture, arxiv: [2604.25595](https://arxiv.org/abs/2604.25595).
 2. **L. Guo**, Qin Wang, and Chen Zhang, Relative higher index theory on quotients of Roe algebras and positive scalar curvature at infinity, arxiv: [2509.23380](https://arxiv.org/abs/2509.23380).
 3. **L. Guo**, Qin Wang. Geometric Banach property (T) for metric spaces via Banach representations of Roe algebras, arxiv: [2505.02338](https://arxiv.org/abs/2505.02338).
-4. **L. Guo**, Jin Qian, Qin Wang, An ultraproduct approach to limit space theory, arXiv: [2412.08130](https://arxiv.org/abs/2412.08130).
-5. **L. Guo**, Qin Wang, Jianchao Wu and Guoliang Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv: [2411.18538](https://arxiv.org/abs/2411.18538).
-6. Jintao Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv: [2409.16556](https://arxiv.org/abs/2409.16556).
+4. **L. Guo**, Qin Wang, Jianchao Wu and Guoliang Yu, Hilbert-Hadamard spaces and the equivariant coarse Novikov conjecture. arXiv: [2411.18538](https://arxiv.org/abs/2411.18538).
+5. Jintao Deng and **L. Guo**, Twisted Roe algebras and their K-theory. arXiv: [2409.16556](https://arxiv.org/abs/2409.16556).
 
 
 
@@ -135,6 +135,10 @@ Conference and Seminar Talks
 - International Conference on Classification of C*-algebras and its Applications, Shanghai University of Finance and Economics, Shanghai, 2026.4.16-4.20
   - Title: $K$-theory of Ghostly Ideals for $\ell^p$-Coarsely Embeddable Spaces.
 - Spring Operator Algebras Program, East China Normal University, Shanghai, 2026. 5.18-5.22
+  - Title: A groupoid approach to the equivariant coarse Baum--Connes conjecture
+- Frontiers in Noncommutative Geometry and its Applications, Hangzhou, 2026. 7.5-7.10
+  - Title: Relative higher index theory and positive scalar curvature at infinity.
+- 2026 Summer School and Workshop on Noncommutative Geometry, Dalian, 2026. 7.12-7.19
   - Title: A groupoid approach to the equivariant coarse Baum--Connes conjecture
 
 ------

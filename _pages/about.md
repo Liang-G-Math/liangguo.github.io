@@ -41,6 +41,7 @@ Education and Work experience
 - 2024-2026: Shanghai Institute for Mathematics and Interdisciplinary Sciences. (SIMIS), Postdoc
 
 - 2026-now：Centre for Mathematical Sciences, Lund University, Postdoc
+  -  Supported by the STINT Postdoctoral Fellowship
 
 
 

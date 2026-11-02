@@ -62,7 +62,7 @@ Education and Work experience
 # Publications
 
 
-1. **L. Guo**, Jin Qian, Qin Wang, An ultraproduct approach to limit space theory, To appear in *Bulletin of the London Mathematical Society*, (2026) arXiv: [2412.08130](https://arxiv.org/abs/2412.08130).
+1. **L. Guo**, Jin Qian, Qin Wang, [A nonstandard analysis approach to limit operators and Fredholmness in Roe-like algebras](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70534), *Bull. London Math. Soc*, 58(11): e70534, 2026.
 2. **L. Guo**, Kang Li, Qin Wang, [$K$-theory of ghostly ideals for $\ell^p$-coarsely embeddable spaces](https://link.springer.com/article/10.1007/s00209-026-04079-4), *Math. Z.*，(2026), published online first.
 3. **L.Guo**, Hang Wang, Xiufeng Yao, [The $K$-theory of maximal and reduced Roe algebras for Hecke pairs with equivariant coarse embeddings](https://www.worldscientific.com/doi/10.1142/S1793525326500317), *J. Topol. Anal.* (2026), published online first.
 4. **L. Guo**, Qin Wang, and Chen Zhang, [The maximal coarse Baum-Connes conjecture for spaces that admit an A-by-FCE coarse fibration structure](https://ems.press/journals/jncg/articles/14299369), *J. Noncommut. Geom.* (2025), published online first.
